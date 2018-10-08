@@ -1,0 +1,207 @@
+body{
+
+  margin: 0;
+  padding:0;
+
+}
+
+#topbar{
+
+	padding: 15px;
+	position: static;
+}
+
+#logo1{
+
+	background-color: #000000;
+	color: #ffffff;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+
+}
+
+#logo2{
+
+	background-color: #fff;
+	color: #000;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+}
+#logo{
+
+
+	padding: 10px;
+	position: relative;
+	left: 175px	;
+	height:15px;
+
+}
+#logo12{
+	height:15px;
+	padding: 10px;
+	position: relative;
+	left: 175px	;
+	padding-top: 30px;
+
+}
+
+.navbar{
+	
+	display: inline-block;
+	float: right;
+	position: relative;
+	bottom: 45px;
+}
+
+.navbar li a{
+
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 15px;
+	margin: 5px;
+	text-decoration: none;
+	color: #000;
+
+}
+
+.navbar li a:hover{
+
+
+	background-color: #000;
+	color:#fff;
+}
+.navbar li {
+  	
+  	list-style-type: none;
+  	color: #000;
+  	display: inline-block;
+
+}
+.clear{
+
+	clear: both;
+}
+
+#home{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 200px	;
+	margin-bottom: 30px;
+}
+
+#home1{
+
+	font-size: 25px;
+}
+#btn1{
+	background: #0592d0;
+	color: #fff;
+	border: none;
+	width: 120px;
+	height: 40px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+#btn2{
+
+	background: #ffcf01;
+	color: #fff;
+	border: none;
+	width: 120px;
+	height: 40px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+
+
+
+}
+#about{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 200px	;
+	float: left;
+	margin-bottom: 30px;
+}
+#pic{
+
+   height: 200px;
+   width: 2o0px;
+   float: right;
+   position: relative;
+   right: 400px	;
+}
+#port{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 200px	;
+}
+#part{
+
+	float:right;
+	position: relative;
+	right: 1000px	;
+	bottom: 85px	;
+}
+#port p{
+
+	text-decoration: underline;
+}
+#serv{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 200px	;
+}
+#input1{
+
+	border:none;
+	width: 150px;
+	border-bottom: 2px solid #a6a6a6;
+}
+
+#footer{
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	left: 14px;
+	margin-bottom: 100px;
+}
+
+#foo{
+
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	position: relative;
+	right: 100px;
+	float: right;
+	bottom: 17px;
+
+
+}
+#servi{
+
+	text-decoration: none;
+	color:#000;
+}
+#porti{
+
+    text-decoration: none;
+	color:#000;
+}
+#abouti{
+
+	text-decoration: none;
+	color:#000;
+}
+#homei{
+
+    text-decoration: none;
+	color:#000;
+}
